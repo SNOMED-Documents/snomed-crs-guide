@@ -1,14 +1,16 @@
-# SNOMED CT Content Request Service
+# snomed-ct-content-request-service
 
-{"elements":{"metas":{"hidden":true},"comments":{"hidden":true},"labels":{"hidden":true},"likes":{"hidden":true}},"cssSelector":"","cssSelectorLocked":false}
+## SNOMED CT Content Request Service
+
+{"elements":{"metas":{"hidden":true},"comments":{"hidden":true},"labels":{"hidden":true},"likes":{"hidden":true\}},"cssSelector":"","cssSelectorLocked":false}
 
 Welcome to the SNOMED CT® Content Request Service (CRS) . This system allows users to request basic content changes to SNOMED CT.
 
-## How do I get to CRS?
+### How do I get to CRS?
 
 Please go to [https://request.ihtsdotools.org](https://request.ihtsdotools.org/), where you will be asked to log in.
 
-## How do I obtain a CRS Account?
+### How do I obtain a CRS Account?
 
 Please see, [Accessing CRS](https://confluence.ihtsdotools.org/display/SCTCR/Accessing+CRS).
 
@@ -20,69 +22,64 @@ Before making any request, please read the guidance on submitting content -
 
 The new CRS tool features a variety of templates and two request entry modes to appeal to most users. These Include:
 
-  * **Create a new Concept(s)**
+* **Create a new Concept(s)**
 
 A request for a new concept must take into account existing content and align with the existing Editorial Guidance
 
-  * **Add New Synonym(s)**
+* **Add New Synonym(s)**
 
 A new synonym may be added to an existing concept if the request aligns with existing Editorial Guidance and has a clear justification.
 
-  * **Add or Modify Parent(s)**
+* **Add or Modify Parent(s)**
 
 A new parent may be added to an existing concept (or changed) if the request aligns with existing Editorial Guidance and has a clear justification.
 
-  * **Add or Modify Description(s)**
+* **Add or Modify Description(s)**
 
 A new description may be added to an existing concept (or changed) if the request aligns with existing Editorial Guidance and has a clear justification.
 
-  * **Inactivate Concept(s), Description(s), or Relationship(s)**
+* **Inactivate Concept(s), Description(s), or Relationship(s)**
 
 Concepts or their components may be inactivated if the request aligns with existing Editorial Guidance and has a clear justification.
 
-  * **Modify and Create New Relationship(s)**
+* **Modify and Create New Relationship(s)**
 
 New relationships or modification to existing concepts may be made if the request aligns with existing Editorial Guidance and has a clear justification.
 
-# Content
+## Content
 
-## Announcements
+### Announcements
 
-#### Blog Posts
+**Blog Posts**
 
-  * [New version of CRS](/pages/viewpage.action?pageId=35988156) created by
+* [New version of CRS](pages/viewpage.action) created by
 
-[Rory Davidson](    /display/~rdavidson
-)
+[Rory Davidson](display/~rdavidson/)
 
-2017-Jan-04 
+2017-Jan-04
 
-[SNOMED CT Content Request Service](/display/SCTCR)
+[SNOMED CT Content Request Service](display/SCTCR/)
 
-  * [January 2017 Release Authoring Complete](/pages/viewpage.action?pageId=33498525) created by
+* [January 2017 Release Authoring Complete](pages/viewpage.action) created by
 
-[Rory Davidson](    /display/~rdavidson
-)
+[Rory Davidson](display/~rdavidson/)
 
-2016-Nov-16 
+2016-Nov-16
 
-[SNOMED CT Content Request Service](/display/SCTCR)
+[SNOMED CT Content Request Service](display/SCTCR/)
 
-  * [SNOMED Content Request Service Go Live](/pages/viewpage.action?pageId=31985097) created by
+* [SNOMED Content Request Service Go Live](pages/viewpage.action) created by
 
-[Rory Davidson](    /display/~rdavidson
-)
+[Rory Davidson](display/~rdavidson/)
 
-2016-Sep-26 
+2016-Sep-26
 
-[SNOMED CT Content Request Service](/display/SCTCR)
+[SNOMED CT Content Request Service](display/SCTCR/)
 
-  * [Service Roll Out](/pages/viewpage.action?pageId=31033498) created by
+* [Service Roll Out](pages/viewpage.action) created by
 
-[Rory Davidson](    /display/~rdavidson
-)
+[Rory Davidson](display/~rdavidson/)
 
-2016-Aug-31 
+2016-Aug-31
 
-[SNOMED CT Content Request Service](/display/SCTCR)
-
+[SNOMED CT Content Request Service](display/SCTCR/)
