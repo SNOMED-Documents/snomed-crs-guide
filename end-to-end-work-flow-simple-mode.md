@@ -2,20 +2,19 @@
 
 Getting Started - Create Request
 
-Steps| Reference  
----|---  
-  
+| Steps| Reference |
+|----|-------|
+|  
   1. Press "Create New Request" in the left sidebar (1).
-  2. The system will load the create New Request dialog box; select an input mode (2) (direct or simple) and a desired Request Type template (3), then press **Create Request** in the dialogue box**.****  
-**
-
-To jump to the next steps please select the desired request combination:****| <figure><img src="images/278306286.png" alt="" title=""></figure>  
+  2. The system will load the create New Request dialog box; select an input mode (2) (direct or simple) and a desired Request Type template (3), then press **Create Request** in the dialogue box.
+  3. 
+To jump to the next steps please select the desired request combination:**** | <figure><img src="images/278306286.png" alt="" title=""></figure> |
   
 #### Simple mode - Change Description
 
-Steps| Reference  
----|---  
-3\. The system will load the New Request screen; fill out the request details:
+| Steps| Reference |
+|----|-------|
+| 3\. The system will load the New Request screen; fill out the request details:
 
   *     * Local SNOMED CT code (6) - Local SNOMED CT extension code - _optional_
     * Originating Organization (7)  \- The source of the request ex: Organization Name Donation _\- required_
@@ -34,7 +33,7 @@ Steps| Reference
     * Proposed New Description (17) - Type the new description term
     * New Case Significance (18) - Set the Case Significance of the New Description
 
-5\. Press **Save Request** (4) to save your work or press **Submit Request** (5) to submit it. The request will have a status of **New** and you will be redirected to the dashboard.6\. Jump to: What happens after my Request has been submitted?| <figure><img src="images/278306287.png" alt="" title=""></figure>  
+5\. Press **Save Request** (4) to save your work or press **Submit Request** (5) to submit it. The request will have a status of **New** and you will be redirected to the dashboard.6\. Jump to: What happens after my Request has been submitted? | <figure><img src="images/278306287.png" alt="" title=""></figure>  |
   
 #### Simple mode - Change Relationship
 
