@@ -1,16 +1,4 @@
-# snomed-ct-content-request-service
-
-## SNOMED CT Content Request Service
-
-{"elements":{"metas":{"hidden":true},"comments":{"hidden":true},"labels":{"hidden":true},"likes":{"hidden":true\}},"cssSelector":"","cssSelectorLocked":false}
-
-Welcome to the SNOMED CT® Content Request Service (CRS) . This system allows users to request basic content changes to SNOMED CT.
-
-### How do I get to CRS?
-
-Please go to [https://request.ihtsdotools.org](https://request.ihtsdotools.org/), where you will be asked to log in.
-
-### How do I obtain a CRS Account?
+# How do I obtain a CRS Account?
 
 Please see, [Accessing CRS](https://confluence.ihtsdotools.org/display/SCTCR/Accessing+CRS).
 
@@ -46,40 +34,3 @@ Concepts or their components may be inactivated if the request aligns with exist
 
 New relationships or modification to existing concepts may be made if the request aligns with existing Editorial Guidance and has a clear justification.
 
-## Content
-
-### Announcements
-
-**Blog Posts**
-
-* [New version of CRS](pages/viewpage.action) created by
-
-[Rory Davidson](display/~rdavidson/)
-
-2017-Jan-04
-
-[SNOMED CT Content Request Service](display/SCTCR/)
-
-* [January 2017 Release Authoring Complete](pages/viewpage.action) created by
-
-[Rory Davidson](display/~rdavidson/)
-
-2016-Nov-16
-
-[SNOMED CT Content Request Service](display/SCTCR/)
-
-* [SNOMED Content Request Service Go Live](pages/viewpage.action) created by
-
-[Rory Davidson](display/~rdavidson/)
-
-2016-Sep-26
-
-[SNOMED CT Content Request Service](display/SCTCR/)
-
-* [Service Roll Out](pages/viewpage.action) created by
-
-[Rory Davidson](display/~rdavidson/)
-
-2016-Aug-31
-
-[SNOMED CT Content Request Service](display/SCTCR/)

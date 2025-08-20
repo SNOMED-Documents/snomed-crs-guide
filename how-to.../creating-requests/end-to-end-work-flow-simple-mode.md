@@ -19,12 +19,12 @@ layout:
 
 ### Getting Started - Create Request
 
-<table><thead><tr><th width="544.10546875">Steps</th><th>Reference</th></tr></thead><tbody><tr><td><p></p><ol><li>Press "Create New Request" in the left sidebar (1).</li><li>The system will load the create New Request dialog box; select an input mode (2) (direct or simple) and a desired Request Type template (3), then press <strong>Create Request</strong> in the dialogue box.</li></ol><p>To jump to the next steps please select the desired request combination:</p></td><td><p></p><p></p><div><figure><img src="images/278306286.png" alt=""><figcaption></figcaption></figure></div></td></tr></tbody></table>
+<table><thead><tr><th width="544.10546875">Steps</th><th>Reference</th></tr></thead><tbody><tr><td><p></p><ol><li>Press "Create New Request" in the left sidebar (1).</li><li>The system will load the create New Request dialog box; select an input mode (2) (direct or simple) and a desired Request Type template (3), then press <strong>Create Request</strong> in the dialogue box.</li></ol><p>To jump to the next steps please select the desired request combination:</p></td><td><p></p><p></p><div><figure><img src="../../images/278306286.png" alt=""><figcaption></figcaption></figure></div></td></tr></tbody></table>
 
 ### Simple mode - Change Description
 
 <table><thead><tr><th width="545.29296875">Steps</th><th>Reference</th></tr></thead><tbody><tr><td><ol start="3"><li><p>The system will load the New Request screen; fill out the request details:</p><ol><li> Local SNOMED CT code (6) - Local SNOMED CT extension code - _optional_</li></ol></li></ol><ul><li>Originating Organization (7) - The source of the request ex: Organization Name Donation <em>- required</em></li><li>Collaboration Agreement (8) - CMT or LOINC - <em>optional</em></li><li>Topic (9) - What category the request falls under <em>- required</em></li><li>Summary (10) - Usually the FSN that is the subject of the request <em>- required</em></li><li>Proposed Use Case (11) - Describe the usage scenario - <em>required</em></li><li>Reference (12) - Supporting notes as to why the content request should be completed</li><li>Notes (13) - Any additional comments desired to be made about the request</li><li>Namespace (14) - <em>optional</em></li></ul><p>4. To change a description, fill out the following fields:</p><ul><li><pre><code>* Concept (15) - The concept containing the description which is desired to be changed. For more info on populating this field via search or taxonomy see: [Search, Taxonomy, and Using Drag and Drop](31033178.html) or using type ahead see [Using Type Ahead Within CRS](Using-Type-Ahead-Within-CRS_31033205.html)
-</code></pre><ul><li>Active Description (16) - Select which of the descriptions from the selected concept should be changed</li><li>Proposed New Description (17) - Type the new description term</li><li>New Case Significance (18) - Set the Case Significance of the New Description</li></ul><p>5. Press <strong>Save Request</strong> (4) to save your work or press <strong>Submit Request</strong> (5) to submit it. The request will have a status of <strong>New</strong> and you will be redirected to the dashboard.6. Jump to: What happens after my Request has been submitted?</p></li></ul></td><td><p></p><div><figure><img src="images/278306287.png" alt=""><figcaption></figcaption></figure></div></td></tr><tr><td></td><td></td></tr></tbody></table>
+</code></pre><ul><li>Active Description (16) - Select which of the descriptions from the selected concept should be changed</li><li>Proposed New Description (17) - Type the new description term</li><li>New Case Significance (18) - Set the Case Significance of the New Description</li></ul><p>5. Press <strong>Save Request</strong> (4) to save your work or press <strong>Submit Request</strong> (5) to submit it. The request will have a status of <strong>New</strong> and you will be redirected to the dashboard.6. Jump to: What happens after my Request has been submitted?</p></li></ul></td><td><p></p><div><figure><img src="../../images/278306287.png" alt=""><figcaption></figcaption></figure></div></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 ### Simple mode - Change Relationship
 
@@ -53,14 +53,14 @@ layout:
   * Relationship (20) - Select which of the descriptions from the selected concept should be changed
   * Select Show Stated Relationship or Show Inferred Relationship (21)
   * Proposed RelationshipType (22)
-  * Proposed Destination Concept (23) - For more info on populating this field via search or taxonomy see: [Search, Taxonomy, and Using Drag and Drop](31033178.html) or using type ahead see [Using Type Ahead Within CRS](Using-Type-Ahead-Within-CRS_31033205.html)
+  * Proposed Destination Concept (23) - For more info on populating this field via search or taxonomy see: [Search, Taxonomy, and Using Drag and Drop](../../31033178.html) or using type ahead see [Using Type Ahead Within CRS](../../Using-Type-Ahead-Within-CRS_31033205.html)
   * Proposed CharacteristicType (24)
   * Proposed Refinability (25)
   * Proposed Relationship Group(26)
 
 5\. Press **Save Request** (4) to save your work or press **Submit Request** (5) to submit it. The request will have a status of **New** and you will be redirected to the dashboard.6. Jump to: What happens after my Request has been submitted?|
 
-<figure><img src="images/278306288.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../images/278306288.png" alt=""><figcaption></figcaption></figure>
 
 #### Simple mode - Change or Inactivate Concept
 
@@ -93,7 +93,7 @@ layout:
 
 5\. Press **Save Request** (4) to save your work or press **Submit Request** (5) to submit it. The request will have a status of **New** and you will be redirected to the dashboard. 6. Jump to: What happens after my Request has been submitted?|
 
-<figure><img src="images/278306289.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../images/278306289.png" alt=""><figcaption></figcaption></figure>
 
 #### Simple mode - Create New Concept
 
@@ -128,7 +128,7 @@ layout:
 
 5\. Press **Save Request** (4) to save your work or press **Submit Request** (5) to submit it. The request will have a status of **New** and you will be redirected to the dashboard. 6. Jump to: What happens after my Request has been submitted?|
 
-<figure><img src="images/278306290.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../images/278306290.png" alt=""><figcaption></figcaption></figure>
 
 #### Simple mode - Create New Description
 
@@ -159,7 +159,7 @@ layout:
 
 5\. Press **Save Request** (4) to save your work or press **Submit Request** (5) to submit it. The request will have a status of **New** and you will be redirected to the dashboard. 6. Jump to: What happens after my Request has been submitted?|
 
-<figure><img src="images/278306291.png" alt=""><figcaption><p><strong>Request Form Glossary</strong></p></figcaption></figure>
+<figure><img src="../../images/278306291.png" alt=""><figcaption><p><strong>Request Form Glossary</strong></p></figcaption></figure>
 
 | Term                 | Explanation                                                     |
 | -------------------- | --------------------------------------------------------------- |
