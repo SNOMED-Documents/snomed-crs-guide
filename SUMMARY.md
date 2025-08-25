@@ -8,7 +8,7 @@
 * [Service Level Agreement for International CRS](introduction/service-level-agreement-for-international-crs.md)
 * [CRS Workflow](introduction/crs-workflow.md)
 
-## HOW TO... ?
+## How to... ?
 
 * [Accessing CRS](how-to.../accessing-crs.md)
 * [Navigating CRS from the Sidebar](how-to.../navigating-crs-from-the-sidebar.md)
