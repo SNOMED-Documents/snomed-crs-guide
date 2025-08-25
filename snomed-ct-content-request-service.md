@@ -1,8 +1,6 @@
 # How do I obtain a CRS Account?
 
-Please see, [Accessing CRS](https://confluence.ihtsdotools.org/display/SCTCR/Accessing+CRS).
-
-What types of Content Requests are supported?
+**What types of Content Requests are supported?**
 
 Before making any request, please read the guidance on submitting content -
 

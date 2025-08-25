@@ -1,8 +1,8 @@
 # Accessing CRS
 
-**The International SNOMED CT Content Request Service (CRS) is located here,**[**http://snomed.org/crs**](http://snomed.org/crs)**.**
+**The International SNOMED CT Content Request Service (CRS) is located here:** [**http://snomed.org/crs**](http://snomed.org/crs)**.**
 
-\*\*The US SNOMED CT Content Request Service (USCRS) is located here,[https://us-request.ihtsdotools.org](https://us-request.ihtsdotools.org). \*\*
+The US SNOMED CT Content Request Service (USCRS) guide is located in the last pages of this guide: [Broken link](broken-reference "mention")
 
 ## System requirements for using CRS & USCRS
 
@@ -16,9 +16,9 @@ An authorized requester to the International CRS is usually a named individual f
 
 Both CRS & USCRS uses the Identity Management Service (IMS) to manage credentials. You can use your existing login name and password that you use for Confluence (if applicable). If you do not have account, please follow the instructions below.
 
-If you already have an account to access [SNOMED International's Confluence](https://confluence.ihtsdotools.org), you will be able to access CRS with your existing account credentials, although you will still need to request access to be able to log in to CRS.
+If you already have an account to access SNOMED International's Confluence, you will be able to access CRS with your existing account credentials, although you will still need to request access to be able to log in to CRS.
 
-If you do not have an account, or find that you do not have access, please fill in the following form to request access: [Confluence User Accounts](https://confluence.ihtsdotools.org/display/ILS/Confluence+User+Accounts).
+If you do not have an account, or find that you do not have access, please fill in the following form to request access: Confluence User Accounts.
 
 Should you still have any difficulty, please contact us by sending an email to [techsupport@snomed.org](mailto:techsupport@snomed.org).
 

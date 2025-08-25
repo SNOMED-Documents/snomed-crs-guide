@@ -37,4 +37,3 @@
 ## US GUIDE
 
 * [US CRS User Guide](us-guide/us-crs-user-guide.md)
-* [CRS Guidance Documents](us-guide/crs-guidance-documents.md)
