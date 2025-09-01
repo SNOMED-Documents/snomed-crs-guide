@@ -22,7 +22,7 @@ Yes. (_and the screen is purposefully blank for a few minutes.._)
 
 Before making any request, please read the guidance on submitting content -
 
-[Version 15.0 Customer Guidance for Requesting Changes to SNOMED CT 20240723.pdf](../attachments/22318960/245794146.pdf)
+[Version 15.0 Customer Guidance for Requesting Changes to SNOMED CT 20240723.pdf](https://www.snomed.org/_files/ugd/900274_0588ebe7d1d343158d2ffd52b08d3817.pdf)
 
 Users are able to create requests to add, modify or retire information in SNOMED CT, including:
 
