@@ -81,19 +81,3 @@ As an requester you can do a number of things on each request - [managing-submit
 | **Completed**            | A request status will be changed to "Completed" once the SNOMED CT International Edition, in which the request has been addressed, has been released.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | _Completed_                      |
 
 ***
-
-## **Further Information**
-
-* [accessing-crs.md](../how-to.../accessing-crs.md "mention")
-* [navigating-crs-from-the-sidebar.md](../how-to.../navigating-crs-from-the-sidebar.md "mention")
-* [creating-requests](../how-to.../creating-requests/ "mention")
-* [what-happens-after-my-request-is-submitted.md](../faqs/what-happens-after-my-request-is-submitted.md "mention")
-* [managing-submitted-requests-screen](../how-to.../managing-submitted-requests-screen/ "mention")
-* [reassign-request.md](../how-to.../reassign-request.md "mention")
-* [notifications.md](../how-to.../managing-submitted-requests-screen/notifications.md "mention")
-* [withdrawing-a-submitted-request.md](../how-to.../withdrawing-a-submitted-request.md "mention")
-* [crs-workflow.md](crs-workflow.md "mention")
-* [end-to-end-work-flow-simple-mode.md](../how-to.../creating-requests/end-to-end-work-flow-simple-mode.md "mention")
-* [customizing-the-list-view-screen.md](../how-to.../customizing-the-list-view-screen.md "mention")
-* [create-a-batch-request.md](../how-to.../creating-requests/create-a-batch-request.md "mention")
-* [content-request-glossary.md](../content-request-glossary.md "mention")
