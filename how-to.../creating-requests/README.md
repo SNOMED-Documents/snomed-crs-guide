@@ -62,3 +62,10 @@ UMLS CUI| Add the UMLS Concept Unique Identifier if one exists|\
 Originating Organization| Choose the organization from the drop down that is requesting the change or addition| Y| _International CRS only_\
 Collaboration Agreement| If relevant, select the collaboration agreement under which the request is being made|\
 \| _International CRS only_
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=Creating%20Requests" class="button primary">Provide Feedback</a>

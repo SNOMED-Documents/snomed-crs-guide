@@ -122,3 +122,10 @@ Select **Other** from **Request Type** drop-down list and click **Create Request
 <figure><img src="../../images/29953275.png" alt=""><figcaption><p>---|---</p></figcaption></figure>
 
 _Figure 14 - Compose a Other request_
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=Create%20A%20Request%20in%20Simple%20Mode" class="button primary">Provide Feedback</a>

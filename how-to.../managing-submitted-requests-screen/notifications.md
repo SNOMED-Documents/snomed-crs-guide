@@ -13,3 +13,10 @@ from any page of CRS you will see the icon
 ### Notes:
 
 CRS will only notify a user about new comments/feedback/questions/answers added if it provided in CRS. For comments which come from out side of CRS such as JIRA, theuser will not get any notification. Please note this is in addition to email notifications. The system will also send an email notification for new comments, feedback, and Q\&A.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=Notifications" class="button primary">Provide Feedback</a>

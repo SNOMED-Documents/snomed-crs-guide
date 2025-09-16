@@ -46,3 +46,10 @@ Allows a user to create a request for large numbers of new content adaptations o
 
 \*\*\
 \*\*
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=Navigating%20CRS%20from%20the%20Sidebar" class="button primary">Provide Feedback</a>

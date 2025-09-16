@@ -81,3 +81,10 @@ As an requester you can do a number of things on each request - [managing-submit
 | **Completed**            | A request status will be changed to "Completed" once the SNOMED CT International Edition, in which the request has been addressed, has been released.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | _Completed_                      |
 
 ***
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=CRS%20Quickstart%20User%20Guide" class="button primary">Provide Feedback</a>

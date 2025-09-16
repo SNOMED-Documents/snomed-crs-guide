@@ -82,3 +82,10 @@ The UI will then highlight the areas that are "drop zones"
 Drag the concept to the desired form field and let go to populate the field with this concept.
 
 <figure><img src="../../images/31033192.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=Search%2C%20Taxonomy%2C%20and%20Using%20Drag%20and%20Drop" class="button primary">Provide Feedback</a>

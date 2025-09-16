@@ -32,3 +32,10 @@ Concepts or their components may be inactivated if the request aligns with exist
 
 New relationships or modification to existing concepts may be made if the request aligns with existing Editorial Guidance and has a clear justification.
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=How%20do%20I%20obtain%20a%20CRS%20Account%3F" class="button primary">Provide Feedback</a>

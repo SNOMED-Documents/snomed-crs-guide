@@ -83,3 +83,10 @@ _Figure 13 - Rejected Requests Number_
 ## Deleting in Batch Details
 
 From My Batches page, select a New Batch in list to navigate to batch details. And click on button **'Delete Batch' (1)** button, the **confirmation dialog (2)** is populated at the top, then click on button 'OK' to confirm deleting batch.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=Create%20a%20Batch%20Request" class="button primary">Provide Feedback</a>
