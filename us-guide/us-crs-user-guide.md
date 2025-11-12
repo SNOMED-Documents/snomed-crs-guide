@@ -8,21 +8,19 @@ The USCRS tool is important in the effort to support the development, enhancemen
 
 ## How do I get to USCRS?
 
-Please go to [US Edition SNOMED CT Content Request System](https://us-request.ihtsdotools.org/) ([https://us-request.ihtsdotools.org/](https://us-request.ihtsdotools.org/)), where you will be asked to log in.
+Please go to [US Edition SNOMED CT Content Request System](https://us-request.ihtsdotools.org/) ([https://us-request.ihtsdotools.org/](https://us-request.ihtsdotools.org/)), which will then open the Welcome to SNOMED International page to enable log in. Once your login details are authenticated, the login process will automatically open your USCRS dashboard at the original address.
 
 **Please Note:** The application is optimized for the Google Chrome browser - please do NOT use another browser (such as IE).
 
 ## How do I obtain a USCRS Account?
 
-If you already have an account to access [IHTSDO Confluence](https://confluence.ihtsdotools.org/), you will be able to access CRS with your existing account credentials, although you will still need to request access to be able to log in to CRS.
+A SNOMED International account is needed to access CRS.
 
-If you do not have an account, or find that you do not have access, please fill in the following form to request access: [Confluence User Accounts](https://confluence.ihtsdotools.org/display/ILS/Confluence+User+Accounts). Under 'Why do you need a Confluence account' please indicate that it is to submit USCRS requests and click the appropriate box in the next section.
+If you do not have an account, or find that your existing account does not have access to USCRS, please follow the instructions on our [SNOMED International User Accounts page](https://conf.spaces.snomed.org/wiki/spaces/ILS/pages/133139480/SNOMED+International+User+Accounts). The form on this page can be used to request a new account for USCRS access, and also to [request access to particular tools](https://conf.spaces.snomed.org/wiki/spaces/ILS/pages/133139480/SNOMED+International+User+Accounts#Requesting-Access-to-SNOMED-International-Tools) (including USCRS) if not yet granted to an existing account.
+
+To request USCRS access, check (tick) the "**US Content Request Service (USCRS)**" option in the form section entitled "**(Optional) In addition to a SNOMED International account, you may request access to specific SNOMED International tools & services**", and also include an explanation of why you need USCRS and any additional qualifying information in the sections immediately after that.
 
 Should you still have any difficulty, please contact us by sending an email to [uscrs@snomed.org](mailto:uscrs@snomed.org).
-
-Once logged in through IMS, you are automatically logged in to the USCRS. Choose the USCRS from the list of IHTSDO tools and you will be redirected to your USCRS dashboard.
-
-Additional information can be found on the SNOMED International [Accessing CRS](../Accessing-CRS_29952273.html) page.
 
 ## Is there any quick introduction?
 
@@ -32,9 +30,7 @@ Yes. (_and the screen is purposefully blank for a few minutes.._)
 
 ## What type of content requests can I make?
 
-Before making any request, please read the guidance on submitting content -
-
-[Users able to create requests to add, modify or retire information in SNOMED CT including:](../download/attachments/47688628/Version%2014.0%20Customer%20Guidance%20for%20Requesting%20Changes%20to%20SNOMED%20CT%2020240226.pdf)
+Users are able to create requests to add, modify or retire information in SNOMED CT including:
 
 * Creating a new Concept(s)
 * New Synonym(s)
@@ -78,9 +74,4 @@ As an requestor you can do a number of things on each request - Managing Submitt
 
 <table><thead><tr><th width="120.31640625">CRS Status</th><th width="466.734375">Description</th><th>Previous SIRS Status</th></tr></thead><tbody><tr><td><strong>Draft</strong></td><td>A request that has been started and saved but not yet submitted.</td><td><em>Draft</em></td></tr><tr><td><strong>New</strong></td><td>All submissions (excluding draft) are initially assigned a status of New. A preliminary check will be carried out to ensure that the new request falls within the inclusion criteria and scope for the International Edition of SNOMED CT before the request will be progressed.</td><td><em>New</em></td></tr><tr><td><strong>Accepted</strong></td><td>Following initial review, each request is assigned to a member of the Content Team. A change to a status of ‘Accepted’ does not mean that the request will be approved for inclusion in SNOMED CT.</td><td><em>Approved</em> <em>&#x26; Accepted In Scope</em></td></tr><tr><td><strong>Under Authoring</strong></td><td>A member of the Content Team is actively evaluating the request.</td><td><em>Construction</em></td></tr><tr><td><strong>In Inception</strong></td><td>Where a new request aligns with an ongoing content project, the request will be placed into this status until editorial policy is available to support the requested change or addition. Content projects are intended to investigate issues or enhancements to both existing and future content for SNOMED CT. A process for understanding the problem and elaboration of a solution is undertaken in order to make improvements to existing content and clarify how content of a similar nature will be incorporated into SNOMED CT in the future. Depending upon the nature of the content project, this may be a longterm large-scale content project or a smaller project with a shorter timescale.</td><td><em>Awaiting policy</em></td></tr><tr><td><strong>Clarification Needed</strong></td><td>Where insufficient information is provided to proceed with a request, a member of the Content Team will incorporate questions to be resolved and change the status of the request to ‘Clarification Needed’. This will generate an email to the original requester. Where a request for clarification to a customer is not answered within <strong>60 days</strong> from the date the clarification is generated, the request will be marked as rejected.</td><td><em>Clarification requested</em></td></tr><tr><td><strong>Forwarded</strong></td><td>Where a request is received that is not in scope for the International Edition of SNOMED CT, it may be suitable for a specific extension. The request may be marked as forwarded to denote that it has been handed over to another extension manager or National Release Center.</td><td><em>Forwarded</em></td></tr><tr><td><strong>Withdrawn</strong></td><td>Once submitted, a request cannot be deleted but can be "Withdrawn" by the original requestor.</td><td><em>Withdrawn</em></td></tr><tr><td><strong>In Appeal</strong></td><td>Where a request has been “Not Accepted”, the submitter may request a further review of the decision. The submitter can then place the request in “In Appeal” status. In these circumstances the decision will be reviewed and if necessary referred to the Head of Terminology for final disposition.</td><td><em>Appeal</em></td></tr><tr><td><strong>Appeal Rejected</strong></td><td>After conclusion of the appropriate appeal process, where the outcome remains unchanged, this status will be applied.</td><td><em>Appeal Rejected</em></td></tr><tr><td><strong>Rejected</strong></td><td>Where a request has had a full review and is not considered to be in scope for SNOMED CT, or does not meet the criteria outlined in the Editorial Guide, or clarification about the request has not been received within 60 days it will be rejected.</td><td><em>Rejected</em></td></tr><tr><td><strong>Ready For Release</strong></td><td>The requested change has been made and approved, however this status does not assure that the requested change will be included in the final release data.</td><td><em>Construction</em></td></tr><tr><td><strong>Completed</strong></td><td>A request status will be changed to "Completed" once the SNOMED CT International Edition, in which the request has been addressed, has been released.</td><td><em>Completed</em></td></tr></tbody></table>
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Content+Request+Guide&entry.670899847=US%20CRS%20User%20Guide" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=Content+Request+Guide&#x26;entry.670899847=US%20CRS%20User%20Guide" class="button primary">Provide Feedback</a>
